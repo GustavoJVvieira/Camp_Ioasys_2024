@@ -1,4 +1,4 @@
-# **Camp Ioasys 2024**
+# **🖥️ Camp Ioasys 2024**
 
 ## **Bem-vindo ao meu repositório do Camp Ioasys 2024!** 
 
@@ -6,7 +6,7 @@
 
 <br>
 
-## **Motivação Pessoal:**
+## **🔮 Motivação Pessoal:**
 
 #### Olá, sou Gustavo Vieira, estudante de Sistemas de Informação e um entusiasta em tecnologia, apaixonado por desenvolvimento e tudo relacionado ao mundo da programação.
 
@@ -14,7 +14,7 @@
 
 <br>
 
-## **Primeira Fase** 
+## **1️⃣ Primeira Fase** 
 
 *(15/04/2024 - 30/05/2024)*
 
@@ -24,7 +24,7 @@
 
 <br>
 
-## **Tecnologias Exercitadas:**
+## **🧰 Tecnologias Exercitadas:**
 
 - CyberSegurança;
 - JavaScript;
@@ -35,18 +35,18 @@
  
 <br>
 
-## **Trabalhos Desenvolvidos:**
+## **📚 Trabalhos Desenvolvidos:**
 - [Aula 1 - Conceitos de segurança](https://github.com/GustavoJVvieira/camp-security-practice): Correção de códigos vulneráveis, com tratamento de dados e criptografia.
 - [Aula 2 - JavaScript Avançado](https://github.com/GustavoJVvieira/Desafio_CHATIoasys): criação de um algoritmo que utiliza consultas à API AzureOpenAI, com uma interface para comunicação do usuário pelo terminal.
 - [Aula 3 - Testes Automatizados](https://github.com/GustavoJVvieira/Ioasys_camp_desafioTDD): Criação de testes com a ferramenta Jest para APIs para Back-End e testes com o Front-End.
 
 <br>
 
-## **Próximos Passos**
+## **🏃 Próximos Passos**
 
 #### A segunda fase consiste na separação de grupos com um integrante de cada trilha, onde será passado um desafio cumum no mercado de trabalho, a equipew devera desenvolver uma solução para concluir esse desafio.
 
 #### Estou empolgado para continuar aprendendo e aprimorando minhas habilidades. Pretendo explorar ainda mais essas tecnologias e aplicá-las em projetos futuros. 
-#### Você pode ver meu resultado na segunda fase nesse reposiório : 
+#### Você pode ver meu resultado na segunda fase nesse reposiório : [FeedUP - Projeto Segunda Fase](https://github.com/GustavoJVvieira/Feedup)
 
 <br>
